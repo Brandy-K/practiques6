@@ -1,7 +1,7 @@
 
         <!ELEMENT tienda (ropa)
         <!ELEMENT ropa (categoria)
-        <!ELEMENT categoria (tallas, producto+)>
+        <!ELEMENT categoria (tallas?, producto+)>
         <!ELEMENT tallas (talla+)>
         <!ELEMENT talla (#PCDATA)>
         <!ELEMENT producto (nombre, precio, colores+,stock)>
