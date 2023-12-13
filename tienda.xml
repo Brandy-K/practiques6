@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tienda SYSTEM "tienda.dtd">
+
+<tienda>
+    <ropa>
+        <categoria id ="Hombre">
+            <tallas>
+                <talla>xs</talla>
+                <talla>s</talla>
+                <talla>m</talla>
+                <talla>l</talla>
+                <talla>xl</talla>
+            </tallas>
+            <producto>
+                <nombre>Sudadera</nombre>
+                <precio>30.00</precio>
+                <colores>
+                    <color>negro</color>
+                    <color>blanco</color>
+                    <color>gris</color>
+                </colores>
+                <stock>200</stock>
+            </producto>
+
+            <producto>
+                <nombre>Camiseta corta</nombre>
+                <precio>20.00</precio>
+                <colores>
+                    <color>negro</color>
+                    <color>blanco</color>
+                    <color>gris</color>
+                </colores>
+                <stock>200</stock>
+            </producto>
+
+            <producto>
+                <nombre>camiseta larga</nombre>
+                <precio>25.00</precio>
+                <colores>
+                    <color>negro</color>
+                    <color>blanco</color>
+                    <color>gris</color>
+                </colores>
+                <stock>100</stock>
+            </producto>
+
+            <producto>
+                <nombre>Chandal pantalones</nombre>
+                <precio>40.00</precio>
+                <colores>
+                    <color>negro</color>
+                    <color>blanco</color>
+                    <color>gris</color>
+                </colores>
+                <stock>150</stock>
+            </producto>
+
+            <producto>
+                <nombre>pantalones cortos</nombre>
+                <precio>25.00</precio>
+                <colores>
+                    <color>negro</color>
+                    <color>blanco</color>
+                    <color>gris</color>
+                </colores>
+                <stock>150</stock>
+            </producto>
+        </categoria>
+
+        <categoria id ="Mujer">
+            <tallas>
+                <talla>xs</talla>
+                <talla>s</talla>
+                <talla>m</talla>
+                <talla>l</talla>
+                <talla>xl</talla>
+            </tallas>
+            <producto>
+                <nombre>Vestido</nombre>
+                <precio>60.00</precio>
+                <colores>
+                    <color>negro</color>
+                    <color>blanco</color>
+                    <color>azul</color>
+                    <color>rojo</color>
+                </colores>
+                <stock>100</stock>
+            </producto>
+
+            <producto>
+                <nombre>top</nombre>
+                <precio>20.00</precio>
+                <colores>
+                    <color>negro</color>
+                    <color>blanco</color>
+                    <color>azul</color>
+                    <color>rojo</color>
+                </colores>
+                <stock>75</stock>
+            </producto>
+
+            <producto>
+                <nombre>Sudadera</nombre>
+                <precio>30.00</precio>
+                <colores>
+                    <color>negro</color>
+                    <color>blanco</color>
+                    <color>gris</color>
+                </colores>
+                <stock>150</stock>
+            </producto>
+        </categoria>
+    </ropa>
+</tienda>
+
+
+
+
