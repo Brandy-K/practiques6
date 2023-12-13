@@ -10,4 +10,4 @@
         <!ELEMENT colores (color+)>
         <!ELEMENT color (#PCDATA)>
         <!ELEMENT stock (#PCDATA)>
-
+        <!ATTLIST categoria id CDATA #REQUIRED>
